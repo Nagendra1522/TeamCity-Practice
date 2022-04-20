@@ -35,7 +35,7 @@ project {
 }
 
 object Build : BuildType({
-    name = "Build"
+    name = "Testing Build"
 
     vcs {
         root(HttpsGithubComNagendra1522TeamCityPracticeGitRefsHeadsMain)
