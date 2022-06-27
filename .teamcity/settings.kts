@@ -32,7 +32,7 @@ project {
 }
 
 object Build : BuildType({
-    name = "Renamed Build"
+    name = "Changed the build Name"
 
     vcs {
         root(DslContext.settingsRoot)
